@@ -1,0 +1,8 @@
+C:\Users\klima\source\repos\LojaDeTeniss\LojaDeTeniss\bin\Debug\LojaDeTeniss.exe.config
+C:\Users\klima\source\repos\LojaDeTeniss\LojaDeTeniss\bin\Debug\LojaDeTeniss.exe
+C:\Users\klima\source\repos\LojaDeTeniss\LojaDeTeniss\bin\Debug\LojaDeTeniss.pdb
+C:\Users\klima\source\repos\LojaDeTeniss\LojaDeTeniss\obj\Debug\LojaDeTeniss.csproj.AssemblyReference.cache
+C:\Users\klima\source\repos\LojaDeTeniss\LojaDeTeniss\obj\Debug\LojaDeTeniss.csproj.CoreCompileInputs.cache
+C:\Users\klima\source\repos\LojaDeTeniss\LojaDeTeniss\obj\Debug\LojaDeTeniss.exe
+C:\Users\klima\source\repos\LojaDeTeniss\LojaDeTeniss\obj\Debug\LojaDeTeniss.pdb
+C:\Users\klima\source\repos\LojaDeTeniss\LojaDeTeniss\obj\Debug\LojaDeTeniss.exe.config
