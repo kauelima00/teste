@@ -1,0 +1,16 @@
+C:\Users\lab2086\source\repos\LojaDeTenis\LojaDeTenis\bin\Debug\LojaDeTenis.exe.config
+C:\Users\lab2086\source\repos\LojaDeTenis\LojaDeTenis\bin\Debug\LojaDeTenis.exe
+C:\Users\lab2086\source\repos\LojaDeTenis\LojaDeTenis\bin\Debug\LojaDeTenis.pdb
+C:\Users\lab2086\source\repos\LojaDeTenis\LojaDeTenis\obj\Debug\LojaDeTenis.csproj.AssemblyReference.cache
+C:\Users\lab2086\source\repos\LojaDeTenis\LojaDeTenis\obj\Debug\LojaDeTenis.csproj.CoreCompileInputs.cache
+C:\Users\lab2086\source\repos\LojaDeTenis\LojaDeTenis\obj\Debug\LojaDeTenis.exe
+C:\Users\lab2086\source\repos\LojaDeTenis\LojaDeTenis\obj\Debug\LojaDeTenis.pdb
+C:\Users\lab2086\source\repos\LojaDeTenis\LojaDeTenis\obj\Debug\LojaDeTenis.exe.config
+C:\Users\klima\Desktop\batatashop_e-commerce-main\batatashop_e-commerce-main\LojaDeTenisOriginal\LojaDeTenis\bin\Debug\LojaDeTenis.exe.config
+C:\Users\klima\Desktop\batatashop_e-commerce-main\batatashop_e-commerce-main\LojaDeTenisOriginal\LojaDeTenis\bin\Debug\LojaDeTenis.exe
+C:\Users\klima\Desktop\batatashop_e-commerce-main\batatashop_e-commerce-main\LojaDeTenisOriginal\LojaDeTenis\bin\Debug\LojaDeTenis.pdb
+C:\Users\klima\Desktop\batatashop_e-commerce-main\batatashop_e-commerce-main\LojaDeTenisOriginal\LojaDeTenis\obj\Debug\LojaDeTenis.csproj.AssemblyReference.cache
+C:\Users\klima\Desktop\batatashop_e-commerce-main\batatashop_e-commerce-main\LojaDeTenisOriginal\LojaDeTenis\obj\Debug\LojaDeTenis.exe.config
+C:\Users\klima\Desktop\batatashop_e-commerce-main\batatashop_e-commerce-main\LojaDeTenisOriginal\LojaDeTenis\obj\Debug\LojaDeTenis.csproj.CoreCompileInputs.cache
+C:\Users\klima\Desktop\batatashop_e-commerce-main\batatashop_e-commerce-main\LojaDeTenisOriginal\LojaDeTenis\obj\Debug\LojaDeTenis.exe
+C:\Users\klima\Desktop\batatashop_e-commerce-main\batatashop_e-commerce-main\LojaDeTenisOriginal\LojaDeTenis\obj\Debug\LojaDeTenis.pdb
